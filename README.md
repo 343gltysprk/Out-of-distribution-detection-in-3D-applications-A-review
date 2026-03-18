@@ -1,4 +1,4 @@
-# Out-of-distribution detection in 3D applications: A review
+# Out-of-distribution detection in 3D applications
 ### Autonomous Driving
 Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection [[IV 2024]](https://ieeexplore.ieee.org/document/10588849)[[code]](https://github.com/uulm-mrm/mmood3d)
 Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf)[[code]](https://github.com/kumuji/stu_dataset)
