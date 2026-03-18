@@ -8,11 +8,12 @@
  + Contrastive Class Anchor Learning for Open Set Object Recognition in Driving Scenes [[TMLR 2024]](https://openreview.net/pdf?id=l0Uum9SJgM)[[code]](https://github.com/343gltysprk/s2ca)
  + Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf)[[code]](https://github.com/kumuji/stu_dataset)
  + Neural Distribution Prior for LiDAR Out-of-Distribution Detection [[Project Page]](https://cs-lzz.github.io/ndp-demo/)
-### Industrial Anoamly Detection
+
+### Industrial Anomaly Detection
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
  + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[CVPR 2024]](https://arxiv.org/abs/2311.14897)[[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
- + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
+ + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)[[code]](https://github.com/zhouzheyuan/r3d-ad)
  + Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning [[ACM MM 2024]](https://arxiv.org/abs/2408.04604)[[code]](https://github.com/M-3LAB/Group3AD)
  + Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
  + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
@@ -39,9 +40,13 @@
  + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
  + Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]][[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 
+### Medical Imaging
+
+### Remote Sensing
+
 ## BibTex Citation
 
-If you find this paper and repository useful, please consider citing ☺️.
+If you find this paper and repository useful, please consider citing:
 
 ```
 @misc{li2025outofdistributiondetection3dapplications,
