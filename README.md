@@ -26,7 +26,7 @@
  + PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.12617)
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
  + Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2505.05901v2)[[code]](https://github.com/hzzzzzhappy/MC4AD)
- + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[2025]](https://arxiv.org/pdf/2505.24431v1
+ + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/pdf/2505.24431v1)
  + Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[ACM MM 2025]](https://arxiv.org/abs/2507.03903v1)
  + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
  + 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[2025]](https://arxiv.org/abs/2507.13110)
