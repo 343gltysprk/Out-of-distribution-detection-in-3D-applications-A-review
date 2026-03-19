@@ -49,9 +49,9 @@
 + LMO: Linear Mamba Operator for MRI Reconstruction [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LMO_Linear_Mamba_Operator_for_MRI_Reconstruction_CVPR_2025_paper.pdf)] [[code](https://github.com/ZhengJianwei2/LMO)]
 ### Remote Sensing
 + Few-Shot Hyperspectral Image Classification With Unknown Classes Using Multitask Deep Learning [[TGRS 2021]](https://arxiv.org/pdf/2009.03508)
-+ An Advanced Dirichlet Prior Network for Out-of-Distribution Detection in Remote Sensing [TGRS 2022](https://ieeexplore.ieee.org/document/9668955)
++ An Advanced Dirichlet Prior Network for Out-of-Distribution Detection in Remote Sensing [[TGRS 2022]](https://ieeexplore.ieee.org/document/9668955)
 + Improving Out-of-Distribution Detection by Learning From the Deployment Environment [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2022](https://ieeexplore.ieee.org/document/9695222)
-+ Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network [WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Pal_Few-Shot_Open-Set_Recognition_of_Hyperspectral_Images_With_Outlier_Calibration_Network_WACV_2022_paper.pdf)
++ Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Pal_Few-Shot_Open-Set_Recognition_of_Hyperspectral_Images_With_Outlier_Calibration_Network_WACV_2022_paper.pdf)
 ## BibTex Citation
 
 If you find this paper and repository useful, please consider citing:
