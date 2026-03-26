@@ -52,6 +52,21 @@
 + An Advanced Dirichlet Prior Network for Out-of-Distribution Detection in Remote Sensing [[TGRS 2022]](https://ieeexplore.ieee.org/document/9668955)
 + Improving Out-of-Distribution Detection by Learning From the Deployment Environment [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2022](https://ieeexplore.ieee.org/document/9695222)
 + Few-Shot Open-Set Recognition of Hyperspectral Images With Outlier Calibration Network [[WACV 2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Pal_Few-Shot_Open-Set_Recognition_of_Hyperspectral_Images_With_Outlier_Calibration_Network_WACV_2022_paper.pdf)
+
+# 4 Dataset
+| Dataset                | Data                | Time         |
+|------------------------|-------|--------------|
+| [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       |  Point-level mask  | Point-cloud synthetic | CVPR,2024    |
+| [Real-IAD](https://realiad4ad.github.io/Real-IAD/)               | RGB real         | CVPR,2024    |
+| [Real3D-AD](https://github.com/M-3LAB/Real3D-AD)              |  Point-cloud real       | NeurIPS,2023 |
+| [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)               | Segmentation mask | RGB real         | CVPR,2019    |
+| [VisA](https://github.com/amazon-science/spot-diff)                 | RGB real         | ECCV,2022    |
+| [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)            | RGB real          | VISAPP,2021  |
+| [MVTec LOCO-AD](https://www.mvtec.com/company/research/datasets/mvtec-loco)          |  RGBD real       | IJCV,2022    |
+| [STU](https://www.mvtec.com/company/research/datasets/mvtec-loco)          |  RGB, LiDAR       | CVPR, 2025    |
+| [MulSen-AD](https://github.com/ZZZBBBZZZ/MulSen-AD) | Image (RGB+Infrared) + Point Cloud | CVPR, 2025 |
+
+
 ## BibTex Citation
 
 If you find this paper and repository useful, please consider citing:
